@@ -1,4 +1,6 @@
 # Deep-Learning---Aplicacao-de-IA-com-PyTorch-e-Lightning
+
+![Imagem Banner](./image/Lab3.png)
 Análise de Imagens de Satélite com Torchvision para demostrar a importância da função de ativação
 
 https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
